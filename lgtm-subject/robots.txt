@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://demostanis.github.io/lgtm-subject/sitemap.xml
